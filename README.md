@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - Telegram : https://t.me/astiac
 - instagram : @_astiac_
-- whatsapp : 00989130008903
+- whatsapp : +989130008903
 - E-Mail : astiac@hotmail.com
 
 <!---

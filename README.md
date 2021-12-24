@@ -5,9 +5,7 @@
 - 📫 How to reach me 
 - Telegram : https://t.me/astiac
 - instagram : @_astiac_
-- whatsapp : +989130008903
 - E-Mail : astiac@hotmail.com
-
 <!---
 astiac/astiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
